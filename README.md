@@ -1,3 +1,5 @@
 # CPP
 
-This 42 project is aimed at teaching you the basics of C++ and object oriented programming. 
+In this 42 project you have to finish 9 modules about the C++ programming language.
+
+The aim of this project is to get familiar with C++ and object oriented programming. It will teach you basics like making classes and inheritance. 
